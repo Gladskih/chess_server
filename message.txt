@@ -1,0 +1,1610 @@
+JIb4-WeBG5eChNE6zOga connected.
+
+Room #JIb4-WeBG5eChNE6zOga has been created.
+JIb4-WeBG5eChNE6zOga In handler (call 1) 1
+Cq_qdZpcLjF3ZUDhzOgb connected.
+
+Room #JIb4-WeBG5eChNE6zOga is full.
+gameStarted
+0 game started.
+Make move called on socket Cq_qdZpcLjF3ZUDhzOgb
+Make move valid on socket Cq_qdZpcLjF3ZUDhzOgb
+Cq_qdZpcLjF3ZUDhzOgb maked move from 5 6 to 5 4
+egchHiqQSyVUwnQG28YL connected.
+
+Room #egchHiqQSyVUwnQG28YL has been created.
+Lk31glVXRcf-U8sU28YM connected.
+
+Room #egchHiqQSyVUwnQG28YL is full.
+gameStarted
+0 game started.
+1 game started.
+gameStarted
+Make move valid on socket Lk31glVXRcf-U8sU28YM
+Make move called on socket Lk31glVXRcf-U8sU28YM
+Lk31glVXRcf-U8sU28YM maked move from 5 6 to 5 4
+Make move called on socket egchHiqQSyVUwnQG28YL
+Make move valid on socket egchHiqQSyVUwnQG28YL
+egchHiqQSyVUwnQG28YL maked move from 4 6 to 4 4
+Make move called on socket Lk31glVXRcf-U8sU28YM
+Make move valid on socket Lk31glVXRcf-U8sU28YM
+Lk31glVXRcf-U8sU28YM maked move from 4 1 to 4 3
+UCvk1gBBjQqFCA6nM626 connected.
+
+Room #UCvk1gBBjQqFCA6nM626 has been created.
+4QcNOVIodz7qcF9dM627 connected.
+
+Room #UCvk1gBBjQqFCA6nM626 is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+UCvk1gBBjQqFCA6nM626 In handler (call 1) 2
+UCvk1gBBjQqFCA6nM626 In handler (call 2) 2
+Disconnected finished UCvk1gBBjQqFCA6nM626
+M438Xf1B804CGJWkM628 connected.
+
+Room #M438Xf1B804CGJWkM628 has been created.
+nQzAL3xke7xPm_dyM629 connected.
+
+Room #M438Xf1B804CGJWkM628 is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket M438Xf1B804CGJWkM628
+M438Xf1B804CGJWkM628 maked move from 5 6 to 5 4
+Make move valid on socket M438Xf1B804CGJWkM628
+Make move called on socket nQzAL3xke7xPm_dyM629
+Make move valid on socket nQzAL3xke7xPm_dyM629
+nQzAL3xke7xPm_dyM629 maked move from 5 6 to 5 4
+M438Xf1B804CGJWkM628 In handler (call 1) 2
+M438Xf1B804CGJWkM628 In handler (call 2) 2
+Disconnected finished M438Xf1B804CGJWkM628
+zTojho7ubZbu-B-WM62- connected.
+
+Room #zTojho7ubZbu-B-WM62- has been created.
+xOK0Lv_yu-tFejwlM62_ connected.
+
+Room #zTojho7ubZbu-B-WM62- is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket zTojho7ubZbu-B-WM62-
+Make move valid on socket zTojho7ubZbu-B-WM62-
+zTojho7ubZbu-B-WM62- maked move from 5 1 to 5 3
+zTojho7ubZbu-B-WM62- In handler (call 1) 2
+zTojho7ubZbu-B-WM62- In handler (call 2) 2
+Disconnected finished zTojho7ubZbu-B-WM62-
+qRRtDoCLkD0exU-8M63A connected.
+
+Room #qRRtDoCLkD0exU-8M63A has been created.
+4E2D1wZvVpQ-eAeAM63B connected.
+
+Room #qRRtDoCLkD0exU-8M63A is full.
+0 game started.
+gameStarted
+gameStarted
+1 game started.
+qRRtDoCLkD0exU-8M63A In handler (call 1) 2
+qRRtDoCLkD0exU-8M63A In handler (call 2) 2
+Disconnected finished qRRtDoCLkD0exU-8M63A
+8KXhdF5-N3rounbSM63C connected.
+
+Room #8KXhdF5-N3rounbSM63C has been created.
+a2f66yOre034UFSzM63D connected.
+
+Room #8KXhdF5-N3rounbSM63C is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+8KXhdF5-N3rounbSM63C In handler (call 1) 2
+8KXhdF5-N3rounbSM63C In handler (call 2) 2
+Disconnected finished 8KXhdF5-N3rounbSM63C
+cbcTvaKe_qk2KlLKM63E connected.
+
+Room #cbcTvaKe_qk2KlLKM63E has been created.
+FEwJPxK6s4qHaUxZM63F connected.
+
+Room #cbcTvaKe_qk2KlLKM63E is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket cbcTvaKe_qk2KlLKM63E
+Make move valid on socket cbcTvaKe_qk2KlLKM63E
+cbcTvaKe_qk2KlLKM63E maked move from 7 6 to 7 4
+Make move called on socket FEwJPxK6s4qHaUxZM63F
+FEwJPxK6s4qHaUxZM63F maked move from 7 6 to 7 4
+Make move valid on socket FEwJPxK6s4qHaUxZM63F
+cbcTvaKe_qk2KlLKM63E In handler (call 1) 2
+cbcTvaKe_qk2KlLKM63E In handler (call 2) 2
+Disconnected finished cbcTvaKe_qk2KlLKM63E
+akgvUAhGGLQzdEuvM63G connected.
+
+Room #akgvUAhGGLQzdEuvM63G has been created.
+HaKd-Aindbu9Ac8LM63H connected.
+
+Room #akgvUAhGGLQzdEuvM63G is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+HaKd-Aindbu9Ac8LM63H In handler (call 1) 2
+HaKd-Aindbu9Ac8LM63H In handler (call 2) 2
+Disconnected finished HaKd-Aindbu9Ac8LM63H
+cEy-aTbf0uGNP8xqM63I connected.
+
+Room #cEy-aTbf0uGNP8xqM63I has been created.
+cEy-aTbf0uGNP8xqM63I In handler (call 1) 1
+XMPc4cyLQ4bJVirTM63J connected.
+
+Room #cEy-aTbf0uGNP8xqM63I is full.
+gameStarted
+0 game started.
+r10_Mv65GQn2rxe-M63K connected.
+
+Room #r10_Mv65GQn2rxe-M63K has been created.
+XMPc4cyLQ4bJVirTM63J In handler (call 1) 1
+gv9vmM9MYwhhyacHM63L connected.
+
+Room #r10_Mv65GQn2rxe-M63K is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+dhWFNt_hrreeZ3U7ooWa connected.
+
+KhQ5Wz8I_FO5vEszooWb connected.
+
+dhWFNt_hrreeZ3U7ooWa In handler (call 1) 2
+dhWFNt_hrreeZ3U7ooWa In handler (call 2) 2
+Disconnected finished dhWFNt_hrreeZ3U7ooWa
+1GsyRE1az1RI89siooWc connected.
+
+Room #1GsyRE1az1RI89siooWc has been created.
+4R1g6Kmn-JBbNmbEooWd connected.
+
+Room #1GsyRE1az1RI89siooWc is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+1GsyRE1az1RI89siooWc In handler (call 1) 2
+1GsyRE1az1RI89siooWc In handler (call 2) 2
+Disconnected finished 1GsyRE1az1RI89siooWc
+QNRysbBhj9k8fj8jooWe connected.
+
+Room #QNRysbBhj9k8fj8jooWe has been created.
+5PoDKc431lldewIPooWf connected.
+
+Room #QNRysbBhj9k8fj8jooWe is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+QNRysbBhj9k8fj8jooWe In handler (call 1) 2
+QNRysbBhj9k8fj8jooWe In handler (call 2) 2
+Disconnected finished QNRysbBhj9k8fj8jooWe
+mrcPnNdL30X3Fu7SooWg connected.
+
+Room #mrcPnNdL30X3Fu7SooWg has been created.
+mrcPnNdL30X3Fu7SooWg In handler (call 1) 1
+mt1Mah4j06BBvnkqooWh connected.
+
+Room #mrcPnNdL30X3Fu7SooWg is full.
+gameStarted
+0 game started.
+_T3tNX1t3NKfazV6ooWi connected.
+
+Room #_T3tNX1t3NKfazV6ooWi has been created.
+mt1Mah4j06BBvnkqooWh In handler (call 1) 1
+meBmahqZ2FiYOlgeooWj connected.
+
+Room #_T3tNX1t3NKfazV6ooWi is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+_T3tNX1t3NKfazV6ooWi In handler (call 1) 2
+_T3tNX1t3NKfazV6ooWi In handler (call 2) 2
+Disconnected finished _T3tNX1t3NKfazV6ooWi
+Wtr4MM81FtNusVA7ooWk connected.
+
+Room #Wtr4MM81FtNusVA7ooWk has been created.
+na76xQuJ0j8xD52DooWl connected.
+
+Room #Wtr4MM81FtNusVA7ooWk is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Wtr4MM81FtNusVA7ooWk In handler (call 1) 2
+Wtr4MM81FtNusVA7ooWk In handler (call 2) 2
+Disconnected finished Wtr4MM81FtNusVA7ooWk
+Ng2H-0PFvoOdQw6QooWm connected.
+
+Room #Ng2H-0PFvoOdQw6QooWm has been created.
+Ng2H-0PFvoOdQw6QooWm In handler (call 1) 1
+nvBDSPQBTkT_Trz9ooWn connected.
+
+Room #Ng2H-0PFvoOdQw6QooWm is full.
+gameStarted
+0 game started.
+nvBDSPQBTkT_Trz9ooWn In handler (call 1) 1
+EWU_drqo2jX5aqnlooWo connected.
+
+Room #EWU_drqo2jX5aqnlooWo has been created.
+Ya1KfuwmIw3_nZ9HooWp connected.
+
+Room #EWU_drqo2jX5aqnlooWo is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket EWU_drqo2jX5aqnlooWo
+Make move valid on socket EWU_drqo2jX5aqnlooWo
+EWU_drqo2jX5aqnlooWo maked move from 6 6 to 6 4
+Ya1KfuwmIw3_nZ9HooWp In handler (call 1) 2
+Disconnected finished Ya1KfuwmIw3_nZ9HooWp
+Ya1KfuwmIw3_nZ9HooWp In handler (call 2) 2
+R8R73PMuiK7jr0SRooWq connected.
+
+Room #R8R73PMuiK7jr0SRooWq has been created.
+cVz71NgvORxHkAu8ooWr connected.
+
+Room #R8R73PMuiK7jr0SRooWq is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket R8R73PMuiK7jr0SRooWq
+Make move valid on socket R8R73PMuiK7jr0SRooWq
+R8R73PMuiK7jr0SRooWq maked move from 6 6 to 6 4
+cVz71NgvORxHkAu8ooWr In handler (call 1) 2
+cVz71NgvORxHkAu8ooWr In handler (call 2) 2
+Disconnected finished cVz71NgvORxHkAu8ooWr
+PT-aX0nXnhFSHzyPooWs connected.
+
+Room #PT-aX0nXnhFSHzyPooWs has been created.
+zaPMDLu9fT_nkQjcooWu connected.
+
+Room #PT-aX0nXnhFSHzyPooWs is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket PT-aX0nXnhFSHzyPooWs
+Make move valid on socket PT-aX0nXnhFSHzyPooWs
+PT-aX0nXnhFSHzyPooWs maked move from 6 6 to 6 4
+PT-aX0nXnhFSHzyPooWs In handler (call 1) 2
+PT-aX0nXnhFSHzyPooWs In handler (call 2) 2
+Disconnected finished PT-aX0nXnhFSHzyPooWs
+pJDx2XuYA9zlvCInooWv connected.
+
+Room #pJDx2XuYA9zlvCInooWv has been created.
+TJ3tMDUfDnMqWrA9ooWw connected.
+
+gameStarted
+Room #pJDx2XuYA9zlvCInooWv is full.
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket pJDx2XuYA9zlvCInooWv
+Make move valid on socket pJDx2XuYA9zlvCInooWv
+pJDx2XuYA9zlvCInooWv maked move from 6 6 to 6 4
+pJDx2XuYA9zlvCInooWv In handler (call 1) 2
+pJDx2XuYA9zlvCInooWv In handler (call 2) 2
+Disconnected finished pJDx2XuYA9zlvCInooWv
+gDpQ-v8OqIn5bo5XooWx connected.
+
+Room #gDpQ-v8OqIn5bo5XooWx has been created.
+vZpdo8eTU63HWAd8ooWy connected.
+
+Room #gDpQ-v8OqIn5bo5XooWx is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket gDpQ-v8OqIn5bo5XooWx
+Make move valid on socket gDpQ-v8OqIn5bo5XooWx
+gDpQ-v8OqIn5bo5XooWx maked move from 5 6 to 5 4
+gDpQ-v8OqIn5bo5XooWx In handler (call 2) 2
+gDpQ-v8OqIn5bo5XooWx In handler (call 1) 2
+Disconnected finished gDpQ-v8OqIn5bo5XooWx
+bwDElp5gclacK1vQooWz connected.
+
+Room #bwDElp5gclacK1vQooWz has been created.
+X0afmsdGLapM65oesVJV connected.
+
+X0afmsdGLapM65oesVJV In handler (call 1) 1
+fSMMKmnfSoQL6l4msVJW connected.
+
+Room #fSMMKmnfSoQL6l4msVJW has been created.
+9oUzJ8ics8XkS4hAsVJX connected.
+
+Room #fSMMKmnfSoQL6l4msVJW is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket fSMMKmnfSoQL6l4msVJW
+Make move valid on socket fSMMKmnfSoQL6l4msVJW
+fSMMKmnfSoQL6l4msVJW maked move from 5 6 to 5 4
+fSMMKmnfSoQL6l4msVJW In handler (call 1) 2
+fSMMKmnfSoQL6l4msVJW In handler (call 2) 2
+Disconnected finished fSMMKmnfSoQL6l4msVJW
+iH-B0H10L65JhRkisVJZ connected.
+
+Room #iH-B0H10L65JhRkisVJZ has been created.
+ua_8kW5hLdR1ks2jsVJa connected.
+
+Room #iH-B0H10L65JhRkisVJZ is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+ua_8kW5hLdR1ks2jsVJa In handler (call 1) 2
+ua_8kW5hLdR1ks2jsVJa In handler (call 2) 2
+Disconnected finished ua_8kW5hLdR1ks2jsVJa
+bkohu3_VIgxrxWJYsVJb connected.
+
+Room #bkohu3_VIgxrxWJYsVJb has been created.
+jvelVER4xlSmvXFAsVJc connected.
+
+Room #bkohu3_VIgxrxWJYsVJb is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket bkohu3_VIgxrxWJYsVJb
+Make move valid on socket bkohu3_VIgxrxWJYsVJb
+bkohu3_VIgxrxWJYsVJb maked move from 5 6 to 5 4
+bkohu3_VIgxrxWJYsVJb In handler (call 1) 2
+bkohu3_VIgxrxWJYsVJb In handler (call 2) 2
+Disconnected finished bkohu3_VIgxrxWJYsVJb
+ptyu7PN8bvzGWNOBsVJd connected.
+
+Room #ptyu7PN8bvzGWNOBsVJd has been created.
+9kwAfQDfl97Sr5EfsVJe connected.
+
+9kwAfQDfl97Sr5EfsVJe In handler (call 1) 2
+9kwAfQDfl97Sr5EfsVJe In handler (call 2) 2
+Disconnected finished 9kwAfQDfl97Sr5EfsVJe
+yuzBsJeWMKxd5LrmsVJf connected.
+
+Room #ptyu7PN8bvzGWNOBsVJd is full.
+0 game started.
+gameStarted
+bJR6UEyDzoorYUuUsVJg connected.
+
+Room #bJR6UEyDzoorYUuUsVJg has been created.
+bJR6UEyDzoorYUuUsVJg In handler (call 1) 1
+P3ga_hzN8ZHbGGINsVJh connected.
+
+Room #bJR6UEyDzoorYUuUsVJg is full.
+gameStarted
+0 game started.
+yuzBsJeWMKxd5LrmsVJf In handler (call 1) 1
+Mmo22B5Y-MO-qV-AsVJi connected.
+
+Room #Mmo22B5Y-MO-qV-AsVJi has been created.
+P3ga_hzN8ZHbGGINsVJh In handler (call 1) 1
+pnn8ynWehGa_-_MjsVJj connected.
+
+Room #Mmo22B5Y-MO-qV-AsVJi is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+pnn8ynWehGa_-_MjsVJj In handler (call 1) 2
+pnn8ynWehGa_-_MjsVJj In handler (call 2) 2
+Disconnected finished pnn8ynWehGa_-_MjsVJj
+erWHv05U2PGvNiSssVJk connected.
+
+Room #erWHv05U2PGvNiSssVJk has been created.
+ULHKYx_h2x5RirSWsVJl connected.
+
+Room #erWHv05U2PGvNiSssVJk is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket erWHv05U2PGvNiSssVJk
+Make move valid on socket erWHv05U2PGvNiSssVJk
+erWHv05U2PGvNiSssVJk maked move from 5 6 to 5 4
+Make move called on socket ULHKYx_h2x5RirSWsVJl
+Make move valid on socket ULHKYx_h2x5RirSWsVJl
+ULHKYx_h2x5RirSWsVJl maked move from 5 1 to 5 3
+Make move called on socket erWHv05U2PGvNiSssVJk
+Make move valid on socket erWHv05U2PGvNiSssVJk
+erWHv05U2PGvNiSssVJk maked move from 6 6 to 6 5
+ULHKYx_h2x5RirSWsVJl In handler (call 1) 2
+ULHKYx_h2x5RirSWsVJl In handler (call 2) 2
+Disconnected finished ULHKYx_h2x5RirSWsVJl
+5lwv8YOZskcNWBabsVJm connected.
+
+Room #5lwv8YOZskcNWBabsVJm has been created.
+PCVBy_ZmaqdImVcysVJn connected.
+
+Room #5lwv8YOZskcNWBabsVJm is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket 5lwv8YOZskcNWBabsVJm
+5lwv8YOZskcNWBabsVJm maked move from 5 6 to 5 4
+Make move valid on socket 5lwv8YOZskcNWBabsVJm
+Make move called on socket PCVBy_ZmaqdImVcysVJn
+Make move valid on socket PCVBy_ZmaqdImVcysVJn
+PCVBy_ZmaqdImVcysVJn maked move from 5 1 to 5 3
+Make move called on socket 5lwv8YOZskcNWBabsVJm
+Make move valid on socket 5lwv8YOZskcNWBabsVJm
+5lwv8YOZskcNWBabsVJm maked move from 4 6 to 4 4
+PCVBy_ZmaqdImVcysVJn In handler (call 1) 2
+PCVBy_ZmaqdImVcysVJn In handler (call 2) 2
+Disconnected finished PCVBy_ZmaqdImVcysVJn
+fHGFwSoYMkyJnVkgsVJo connected.
+
+Room #fHGFwSoYMkyJnVkgsVJo has been created.
+M8BqpZMUlq5KG8TGsVJp connected.
+
+Room #fHGFwSoYMkyJnVkgsVJo is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket fHGFwSoYMkyJnVkgsVJo
+fHGFwSoYMkyJnVkgsVJo maked move from 6 6 to 6 4
+Make move valid on socket fHGFwSoYMkyJnVkgsVJo
+Make move called on socket M8BqpZMUlq5KG8TGsVJp
+Make move valid on socket M8BqpZMUlq5KG8TGsVJp
+M8BqpZMUlq5KG8TGsVJp maked move from 5 1 to 5 3
+Make move called on socket fHGFwSoYMkyJnVkgsVJo
+Make move valid on socket fHGFwSoYMkyJnVkgsVJo
+fHGFwSoYMkyJnVkgsVJo maked move from 6 4 to 6 3
+M8BqpZMUlq5KG8TGsVJp In handler (call 1) 2
+M8BqpZMUlq5KG8TGsVJp In handler (call 2) 2
+Disconnected finished M8BqpZMUlq5KG8TGsVJp
+z6dEcAOQgV9krtQNsVJq connected.
+
+Room #z6dEcAOQgV9krtQNsVJq has been created.
+hbpQZ6TOD1R-FFsdsVJr connected.
+
+Room #z6dEcAOQgV9krtQNsVJq is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket z6dEcAOQgV9krtQNsVJq
+Make move valid on socket z6dEcAOQgV9krtQNsVJq
+z6dEcAOQgV9krtQNsVJq maked move from 5 6 to 5 4
+Make move called on socket hbpQZ6TOD1R-FFsdsVJr
+Make move valid on socket hbpQZ6TOD1R-FFsdsVJr
+hbpQZ6TOD1R-FFsdsVJr maked move from 5 1 to 5 3
+Make move called on socket z6dEcAOQgV9krtQNsVJq
+Make move valid on socket z6dEcAOQgV9krtQNsVJq
+z6dEcAOQgV9krtQNsVJq maked move from 6 6 to 6 4
+hbpQZ6TOD1R-FFsdsVJr In handler (call 1) 2
+Disconnected finished hbpQZ6TOD1R-FFsdsVJr
+hbpQZ6TOD1R-FFsdsVJr In handler (call 2) 2
+HIttL3x8iuEJo3-RsVJs connected.
+
+HIttL3x8iuEJo3-RsVJs In handler (call 1) 1
+6QJCdfpWuSzlQslasVJt connected.
+
+Make move called on socket 6QJCdfpWuSzlQslasVJt
+6QJCdfpWuSzlQslasVJt In handler (call 1) 1
+3vPIcgs3cyjTOmM8sVJu connected.
+
+DjpzPOlXadffnrgnsVJv connected.
+
+Room #DjpzPOlXadffnrgnsVJv has been created.
+3vPIcgs3cyjTOmM8sVJu In handler (call 1) 2
+3vPIcgs3cyjTOmM8sVJu In handler (call 2) 2
+DjpzPOlXadffnrgnsVJv In handler (call 1) 1
+Disconnected finished 3vPIcgs3cyjTOmM8sVJu
+I_Q2Fs0eDdtPyi5psVJw connected.
+
+Room #DjpzPOlXadffnrgnsVJv is full.
+gameStarted
+0 game started.
+I_Q2Fs0eDdtPyi5psVJw In handler (call 1) 1
+XjQRQtIQZPwE4z_-sVJx connected.
+
+Room #XjQRQtIQZPwE4z_-sVJx has been created.
+Hy82gAe6qdou_ujEsVJy connected.
+
+Room #XjQRQtIQZPwE4z_-sVJx is full.
+gameStarted
+gameStarted
+1 game started.
+0 game started.
+Make move called on socket XjQRQtIQZPwE4z_-sVJx
+Make move valid on socket XjQRQtIQZPwE4z_-sVJx
+XjQRQtIQZPwE4z_-sVJx maked move from 6 6 to 6 4
+Make move called on socket Hy82gAe6qdou_ujEsVJy
+Make move valid on socket Hy82gAe6qdou_ujEsVJy
+Hy82gAe6qdou_ujEsVJy maked move from 6 1 to 6 3
+Make move called on socket XjQRQtIQZPwE4z_-sVJx
+Make move valid on socket XjQRQtIQZPwE4z_-sVJx
+XjQRQtIQZPwE4z_-sVJx maked move from 5 6 to 5 4
+Make move called on socket Hy82gAe6qdou_ujEsVJy
+Make move valid on socket Hy82gAe6qdou_ujEsVJy
+Hy82gAe6qdou_ujEsVJy maked move from 5 1 to 5 3
+Hy82gAe6qdou_ujEsVJy In handler (call 1) 2
+Hy82gAe6qdou_ujEsVJy In handler (call 2) 2
+Disconnected finished Hy82gAe6qdou_ujEsVJy
+zlkoF54P9BwvrVthsVJz connected.
+
+Room #zlkoF54P9BwvrVthsVJz has been created.
+I-emAeoU4gac5iLlx_vH connected.
+
+qm5t6THQ-9ndwUi2x_vI connected.
+
+Room #qm5t6THQ-9ndwUi2x_vI has been created.
+I-emAeoU4gac5iLlx_vH In handler (call 1) 2
+I-emAeoU4gac5iLlx_vH In handler (call 2) 2
+qm5t6THQ-9ndwUi2x_vI In handler (call 1) 1
+Disconnected finished I-emAeoU4gac5iLlx_vH
+9qqQV-QlMfFxdkz4x_vK connected.
+
+Room #qm5t6THQ-9ndwUi2x_vI is full.
+gameStarted
+0 game started.
+Qw2flB5xvB88ibFAyK4E connected.
+
+Qw2flB5xvB88ibFAyK4E In handler (call 1) 1
+rKO_ELBb3DZI718cyR5S connected.
+
+Room #rKO_ELBb3DZI718cyR5S has been created.
+W160TqgIFxHjlaT6yR5T connected.
+
+Room #rKO_ELBb3DZI718cyR5S is full.
+0 game started.
+gameStarted
+1 game started.
+gameStarted
+Make move called on socket rKO_ELBb3DZI718cyR5S
+Make move valid on socket rKO_ELBb3DZI718cyR5S
+rKO_ELBb3DZI718cyR5S maked move from 5 6 to 5 4
+rKO_ELBb3DZI718cyR5S In handler (call 1) 2
+rKO_ELBb3DZI718cyR5S In handler (call 2) 2
+Disconnected finished rKO_ELBb3DZI718cyR5S
+Ix7t1nxbfS_xJxyhyR5U connected.
+
+Room #Ix7t1nxbfS_xJxyhyR5U has been created.
+lb5tUQ0_RvzNdGc8yR5V connected.
+
+Room #Ix7t1nxbfS_xJxyhyR5U is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket Ix7t1nxbfS_xJxyhyR5U
+Make move valid on socket Ix7t1nxbfS_xJxyhyR5U
+Ix7t1nxbfS_xJxyhyR5U maked move from 5 6 to 5 4
+Make move called on socket lb5tUQ0_RvzNdGc8yR5V
+Make move valid on socket lb5tUQ0_RvzNdGc8yR5V
+lb5tUQ0_RvzNdGc8yR5V maked move from 6 1 to 6 3
+Make move called on socket Ix7t1nxbfS_xJxyhyR5U
+Make move valid on socket Ix7t1nxbfS_xJxyhyR5U
+Ix7t1nxbfS_xJxyhyR5U maked move from 6 6 to 6 4
+Make move called on socket lb5tUQ0_RvzNdGc8yR5V
+Make move valid on socket lb5tUQ0_RvzNdGc8yR5V
+lb5tUQ0_RvzNdGc8yR5V maked move from 5 1 to 5 3
+Make move called on socket Ix7t1nxbfS_xJxyhyR5U
+Make move valid on socket Ix7t1nxbfS_xJxyhyR5U
+Ix7t1nxbfS_xJxyhyR5U maked move from 4 6 to 4 4
+Make move called on socket lb5tUQ0_RvzNdGc8yR5V
+Make move valid on socket lb5tUQ0_RvzNdGc8yR5V
+lb5tUQ0_RvzNdGc8yR5V maked move from 6 0 to 7 2
+Make move valid on socket Ix7t1nxbfS_xJxyhyR5U
+Make move called on socket Ix7t1nxbfS_xJxyhyR5U
+Ix7t1nxbfS_xJxyhyR5U maked move from 7 6 to 7 4
+lb5tUQ0_RvzNdGc8yR5V In handler (call 1) 2
+lb5tUQ0_RvzNdGc8yR5V In handler (call 2) 2
+Disconnected finished lb5tUQ0_RvzNdGc8yR5V
+tXjfd7Lm2_UVS5Q3yR5W connected.
+
+Room #tXjfd7Lm2_UVS5Q3yR5W has been created.
+kAwUPozoHxtfrPvcyR5X connected.
+
+Room #tXjfd7Lm2_UVS5Q3yR5W is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket tXjfd7Lm2_UVS5Q3yR5W
+Make move valid on socket tXjfd7Lm2_UVS5Q3yR5W
+tXjfd7Lm2_UVS5Q3yR5W maked move from 7 6 to 7 4
+kAwUPozoHxtfrPvcyR5X In handler (call 1) 2
+kAwUPozoHxtfrPvcyR5X In handler (call 2) 2
+Disconnected finished kAwUPozoHxtfrPvcyR5X
+Ja983vm0YdOSV4qryR5Y connected.
+
+Room #Ja983vm0YdOSV4qryR5Y has been created.
+HLUCWWpF2EzMfTbByR5Z connected.
+
+Room #Ja983vm0YdOSV4qryR5Y is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Ja983vm0YdOSV4qryR5Y In handler (call 1) 2
+Ja983vm0YdOSV4qryR5Y In handler (call 2) 2
+Disconnected finished Ja983vm0YdOSV4qryR5Y
+6fKpk47UQpbl8C35yR5a connected.
+
+Room #6fKpk47UQpbl8C35yR5a has been created.
+7OhT09QeRX2fdCbcyR5b connected.
+
+Room #6fKpk47UQpbl8C35yR5a is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+6fKpk47UQpbl8C35yR5a In handler (call 1) 2
+6fKpk47UQpbl8C35yR5a In handler (call 2) 2
+Disconnected finished 6fKpk47UQpbl8C35yR5a
+qloyTz41PWZSr1n1yR5d connected.
+
+Room #qloyTz41PWZSr1n1yR5d has been created.
+Go18SD7LWCqxzkBzyR5e connected.
+
+Room #qloyTz41PWZSr1n1yR5d is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket qloyTz41PWZSr1n1yR5d
+Make move valid on socket qloyTz41PWZSr1n1yR5d
+qloyTz41PWZSr1n1yR5d maked move from 7 6 to 7 4
+Make move called on socket Go18SD7LWCqxzkBzyR5e
+Make move valid on socket Go18SD7LWCqxzkBzyR5e
+Go18SD7LWCqxzkBzyR5e maked move from 6 1 to 6 3
+Make move called on socket qloyTz41PWZSr1n1yR5d
+Make move valid on socket qloyTz41PWZSr1n1yR5d
+qloyTz41PWZSr1n1yR5d maked move from 6 7 to 5 5
+Make move called on socket Go18SD7LWCqxzkBzyR5e
+Make move valid on socket Go18SD7LWCqxzkBzyR5e
+Go18SD7LWCqxzkBzyR5e maked move from 5 1 to 5 2
+Make move called on socket qloyTz41PWZSr1n1yR5d
+Make move valid on socket qloyTz41PWZSr1n1yR5d
+qloyTz41PWZSr1n1yR5d maked move from 6 6 to 6 5
+Make move called on socket Go18SD7LWCqxzkBzyR5e
+Make move valid on socket Go18SD7LWCqxzkBzyR5e
+Go18SD7LWCqxzkBzyR5e maked move from 6 3 to 6 4
+Make move called on socket qloyTz41PWZSr1n1yR5d
+Make move valid on socket qloyTz41PWZSr1n1yR5d
+qloyTz41PWZSr1n1yR5d maked move from 5 7 to 7 5
+Make move called on socket Go18SD7LWCqxzkBzyR5e
+Make move valid on socket Go18SD7LWCqxzkBzyR5e
+Go18SD7LWCqxzkBzyR5e maked move from 6 4 to 5 5
+qloyTz41PWZSr1n1yR5d In handler (call 1) 2
+qloyTz41PWZSr1n1yR5d In handler (call 2) 2
+Disconnected finished qloyTz41PWZSr1n1yR5d
+JK8Q4DXBgB0Ce2JtyR5f connected.
+
+Room #JK8Q4DXBgB0Ce2JtyR5f has been created.
+3oQ-BAn1n5wZIl_ryR5g connected.
+
+gameStarted
+Room #JK8Q4DXBgB0Ce2JtyR5f is full.
+0 game started.
+gameStarted
+1 game started.
+3oQ-BAn1n5wZIl_ryR5g In handler (call 1) 2
+Disconnected finished 3oQ-BAn1n5wZIl_ryR5g
+3oQ-BAn1n5wZIl_ryR5g In handler (call 2) 2
+GRH5f0cK4RPW7YcuyR5h connected.
+
+Room #GRH5f0cK4RPW7YcuyR5h has been created.
+04tbe4al2H7K0v9gyR5i connected.
+
+Room #GRH5f0cK4RPW7YcuyR5h is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket GRH5f0cK4RPW7YcuyR5h
+Make move valid on socket GRH5f0cK4RPW7YcuyR5h
+GRH5f0cK4RPW7YcuyR5h maked move from 7 6 to 7 4
+GRH5f0cK4RPW7YcuyR5h In handler (call 1) 2
+GRH5f0cK4RPW7YcuyR5h In handler (call 2) 2
+Disconnected finished GRH5f0cK4RPW7YcuyR5h
+lZ-Dipt7NRf1wzfSyR5j connected.
+
+Room #lZ-Dipt7NRf1wzfSyR5j has been created.
+8SWcDgDIAoNwvFtXyR5k connected.
+
+Room #lZ-Dipt7NRf1wzfSyR5j is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+lZ-Dipt7NRf1wzfSyR5j In handler (call 1) 2
+lZ-Dipt7NRf1wzfSyR5j In handler (call 2) 2
+Disconnected finished lZ-Dipt7NRf1wzfSyR5j
+Bv-uVVp94nK0UGe3yR5l connected.
+
+Room #Bv-uVVp94nK0UGe3yR5l has been created.
+M-rllnpKM9TD5VJkyR5m connected.
+
+Room #Bv-uVVp94nK0UGe3yR5l is full.
+gameStarted
+0 game started.
+1 game started.
+gameStarted
+Make move called on socket Bv-uVVp94nK0UGe3yR5l
+Make move valid on socket Bv-uVVp94nK0UGe3yR5l
+Bv-uVVp94nK0UGe3yR5l maked move from 6 6 to 6 4
+Make move called on socket M-rllnpKM9TD5VJkyR5m
+Make move valid on socket M-rllnpKM9TD5VJkyR5m
+M-rllnpKM9TD5VJkyR5m maked move from 7 1 to 7 2
+Make move called on socket Bv-uVVp94nK0UGe3yR5l
+Make move valid on socket Bv-uVVp94nK0UGe3yR5l
+Bv-uVVp94nK0UGe3yR5l maked move from 7 6 to 7 4
+Make move called on socket M-rllnpKM9TD5VJkyR5m
+Make move valid on socket M-rllnpKM9TD5VJkyR5m
+M-rllnpKM9TD5VJkyR5m maked move from 5 1 to 5 2
+Make move called on socket Bv-uVVp94nK0UGe3yR5l
+Make move valid on socket Bv-uVVp94nK0UGe3yR5l
+Bv-uVVp94nK0UGe3yR5l maked move from 5 7 to 7 5
+Make move called on socket M-rllnpKM9TD5VJkyR5m
+Make move valid on socket M-rllnpKM9TD5VJkyR5m
+M-rllnpKM9TD5VJkyR5m maked move from 5 2 to 5 3
+Make move called on socket Bv-uVVp94nK0UGe3yR5l
+Make move valid on socket Bv-uVVp94nK0UGe3yR5l
+Bv-uVVp94nK0UGe3yR5l maked move from 6 7 to 5 5
+Make move called on socket M-rllnpKM9TD5VJkyR5m
+M-rllnpKM9TD5VJkyR5m maked move from 5 3 to 5 4
+Make move valid on socket M-rllnpKM9TD5VJkyR5m
+Make move called on socket Bv-uVVp94nK0UGe3yR5l
+Make move valid on socket Bv-uVVp94nK0UGe3yR5l
+Bv-uVVp94nK0UGe3yR5l maked move from 4 7 to 6 7
+Make move called on socket M-rllnpKM9TD5VJkyR5m
+Make move valid on socket M-rllnpKM9TD5VJkyR5m
+M-rllnpKM9TD5VJkyR5m maked move from 4 1 to 4 2
+Make move called on socket Bv-uVVp94nK0UGe3yR5l
+Make move valid on socket Bv-uVVp94nK0UGe3yR5l
+Bv-uVVp94nK0UGe3yR5l maked move from 4 6 to 4 4
+Make move called on socket M-rllnpKM9TD5VJkyR5m
+Make move valid on socket M-rllnpKM9TD5VJkyR5m
+M-rllnpKM9TD5VJkyR5m maked move from 5 4 to 4 5
+M-rllnpKM9TD5VJkyR5m In handler (call 1) 2
+M-rllnpKM9TD5VJkyR5m In handler (call 2) 2
+Disconnected finished M-rllnpKM9TD5VJkyR5m
+jAKghz3Kac1fG3OMyR5n connected.
+
+Room #jAKghz3Kac1fG3OMyR5n has been created.
+d_Y1LC8VJXfVEcAQyR5o connected.
+
+Room #jAKghz3Kac1fG3OMyR5n is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+-ZgcGAKO4x4vLM5FyR5p connected.
+
+Room #-ZgcGAKO4x4vLM5FyR5p has been created.
+t5WoewXQilLi32a3yR5q connected.
+
+Room #-ZgcGAKO4x4vLM5FyR5p is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket jAKghz3Kac1fG3OMyR5n
+Make move valid on socket jAKghz3Kac1fG3OMyR5n
+jAKghz3Kac1fG3OMyR5n maked move from 4 6 to 4 4
+Make move called on socket d_Y1LC8VJXfVEcAQyR5o
+d_Y1LC8VJXfVEcAQyR5o maked move from 5 1 to 5 3
+Make move valid on socket d_Y1LC8VJXfVEcAQyR5o
+Make move called on socket -ZgcGAKO4x4vLM5FyR5p
+Make move valid on socket -ZgcGAKO4x4vLM5FyR5p
+-ZgcGAKO4x4vLM5FyR5p maked move from 6 6 to 6 4
+Make move called on socket t5WoewXQilLi32a3yR5q
+Make move valid on socket t5WoewXQilLi32a3yR5q
+t5WoewXQilLi32a3yR5q maked move from 6 1 to 6 3
+Make move called on socket jAKghz3Kac1fG3OMyR5n
+Make move valid on socket jAKghz3Kac1fG3OMyR5n
+jAKghz3Kac1fG3OMyR5n maked move from 4 4 to 5 3
+Make move called on socket d_Y1LC8VJXfVEcAQyR5o
+Make move valid on socket d_Y1LC8VJXfVEcAQyR5o
+d_Y1LC8VJXfVEcAQyR5o maked move from 6 1 to 6 2
+Make move called on socket jAKghz3Kac1fG3OMyR5n
+Make move valid on socket jAKghz3Kac1fG3OMyR5n
+jAKghz3Kac1fG3OMyR5n maked move from 5 3 to 6 2
+Make move called on socket d_Y1LC8VJXfVEcAQyR5o
+Make move valid on socket d_Y1LC8VJXfVEcAQyR5o
+d_Y1LC8VJXfVEcAQyR5o maked move from 6 0 to 5 2
+Make move called on socket jAKghz3Kac1fG3OMyR5n
+jAKghz3Kac1fG3OMyR5n maked move from 6 2 to 6 1
+Make move valid on socket jAKghz3Kac1fG3OMyR5n
+Make move called on socket d_Y1LC8VJXfVEcAQyR5o
+Make move valid on socket d_Y1LC8VJXfVEcAQyR5o
+d_Y1LC8VJXfVEcAQyR5o maked move from 5 2 to 7 3
+-ZgcGAKO4x4vLM5FyR5p In handler (call 1) 2
+-ZgcGAKO4x4vLM5FyR5p In handler (call 2) 2
+Disconnected finished -ZgcGAKO4x4vLM5FyR5p
+d_Y1LC8VJXfVEcAQyR5o In handler (call 1) 2
+d_Y1LC8VJXfVEcAQyR5o In handler (call 2) 2
+Disconnected finished d_Y1LC8VJXfVEcAQyR5o
+lywdAsvdgfuoj3QAyR5r connected.
+
+Room #lywdAsvdgfuoj3QAyR5r has been created.
+wDM_FhcUkK9wZd-AyR5s connected.
+
+Room #lywdAsvdgfuoj3QAyR5r is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket lywdAsvdgfuoj3QAyR5r
+Make move valid on socket lywdAsvdgfuoj3QAyR5r
+lywdAsvdgfuoj3QAyR5r maked move from 6 6 to 6 4
+Make move called on socket wDM_FhcUkK9wZd-AyR5s
+wDM_FhcUkK9wZd-AyR5s maked move from 5 1 to 5 3
+Make move valid on socket wDM_FhcUkK9wZd-AyR5s
+Make move called on socket lywdAsvdgfuoj3QAyR5r
+Make move valid on socket lywdAsvdgfuoj3QAyR5r
+lywdAsvdgfuoj3QAyR5r maked move from 6 4 to 5 3
+Make move called on socket wDM_FhcUkK9wZd-AyR5s
+Make move valid on socket wDM_FhcUkK9wZd-AyR5s
+wDM_FhcUkK9wZd-AyR5s maked move from 4 1 to 4 2
+Make move called on socket lywdAsvdgfuoj3QAyR5r
+Make move valid on socket lywdAsvdgfuoj3QAyR5r
+lywdAsvdgfuoj3QAyR5r maked move from 5 3 to 5 2
+Make move called on socket wDM_FhcUkK9wZd-AyR5s
+Make move valid on socket wDM_FhcUkK9wZd-AyR5s
+wDM_FhcUkK9wZd-AyR5s maked move from 5 0 to 4 1
+Make move called on socket lywdAsvdgfuoj3QAyR5r
+Make move valid on socket lywdAsvdgfuoj3QAyR5r
+lywdAsvdgfuoj3QAyR5r maked move from 5 2 to 5 1
+Make move called on socket wDM_FhcUkK9wZd-AyR5s
+Make move valid on socket wDM_FhcUkK9wZd-AyR5s
+wDM_FhcUkK9wZd-AyR5s maked move from 4 0 to 5 1
+Make move called on socket lywdAsvdgfuoj3QAyR5r
+Make move valid on socket lywdAsvdgfuoj3QAyR5r
+lywdAsvdgfuoj3QAyR5r maked move from 5 6 to 5 4
+Make move called on socket wDM_FhcUkK9wZd-AyR5s
+wDM_FhcUkK9wZd-AyR5s maked move from 4 2 to 4 3
+Make move valid on socket wDM_FhcUkK9wZd-AyR5s
+Make move called on socket lywdAsvdgfuoj3QAyR5r
+Make move valid on socket lywdAsvdgfuoj3QAyR5r
+lywdAsvdgfuoj3QAyR5r maked move from 5 4 to 4 3
+Make move called on socket wDM_FhcUkK9wZd-AyR5s
+Make move valid on socket wDM_FhcUkK9wZd-AyR5s
+wDM_FhcUkK9wZd-AyR5s maked move from 4 1 to 2 3
+Make move called on socket lywdAsvdgfuoj3QAyR5r
+Make move valid on socket lywdAsvdgfuoj3QAyR5r
+lywdAsvdgfuoj3QAyR5r maked move from 4 3 to 4 2
+Make move called on socket wDM_FhcUkK9wZd-AyR5s
+Make move valid on socket wDM_FhcUkK9wZd-AyR5s
+wDM_FhcUkK9wZd-AyR5s maked move from 5 1 to 5 2
+Make move called on socket lywdAsvdgfuoj3QAyR5r
+Make move valid on socket lywdAsvdgfuoj3QAyR5r
+lywdAsvdgfuoj3QAyR5r maked move from 4 2 to 4 1
+Make move called on socket wDM_FhcUkK9wZd-AyR5s
+Make move valid on socket wDM_FhcUkK9wZd-AyR5s
+wDM_FhcUkK9wZd-AyR5s maked move from 5 2 to 5 3
+Make move called on socket lywdAsvdgfuoj3QAyR5r
+Make move valid on socket lywdAsvdgfuoj3QAyR5r
+lywdAsvdgfuoj3QAyR5r maked move from 4 1 to 4 0
+Make move called on socket wDM_FhcUkK9wZd-AyR5s
+Make move valid on socket wDM_FhcUkK9wZd-AyR5s
+wDM_FhcUkK9wZd-AyR5s maked move from 5 3 to 5 4
+Make move called on socket lywdAsvdgfuoj3QAyR5r
+lywdAsvdgfuoj3QAyR5r maked move from 4 0 to 5 2
+Make move valid on socket lywdAsvdgfuoj3QAyR5r
+Make move called on socket wDM_FhcUkK9wZd-AyR5s
+Make move valid on socket wDM_FhcUkK9wZd-AyR5s
+wDM_FhcUkK9wZd-AyR5s maked move from 5 4 to 5 3
+Make move called on socket lywdAsvdgfuoj3QAyR5r
+Make move valid on socket lywdAsvdgfuoj3QAyR5r
+lywdAsvdgfuoj3QAyR5r maked move from 5 2 to 7 1
+Make move called on socket wDM_FhcUkK9wZd-AyR5s
+Make move valid on socket wDM_FhcUkK9wZd-AyR5s
+wDM_FhcUkK9wZd-AyR5s maked move from 5 3 to 5 2
+Make move called on socket lywdAsvdgfuoj3QAyR5r
+lywdAsvdgfuoj3QAyR5r maked move from 7 1 to 5 2
+Make move valid on socket lywdAsvdgfuoj3QAyR5r
+wDM_FhcUkK9wZd-AyR5s In handler (call 1) 2
+wDM_FhcUkK9wZd-AyR5s In handler (call 2) 2
+Disconnected finished wDM_FhcUkK9wZd-AyR5s
+tcaz_O0te36srcUiyR5t connected.
+
+Room #tcaz_O0te36srcUiyR5t has been created.
+MoiAiy2bJtpl9rMYyR5u connected.
+
+Room #tcaz_O0te36srcUiyR5t is full.
+0 game started.
+gameStarted
+gameStarted
+1 game started.
+Make move called on socket tcaz_O0te36srcUiyR5t
+Make move valid on socket tcaz_O0te36srcUiyR5t
+tcaz_O0te36srcUiyR5t maked move from 5 6 to 5 4
+Make move called on socket MoiAiy2bJtpl9rMYyR5u
+Make move valid on socket MoiAiy2bJtpl9rMYyR5u
+MoiAiy2bJtpl9rMYyR5u maked move from 6 1 to 6 3
+Make move called on socket tcaz_O0te36srcUiyR5t
+Make move valid on socket tcaz_O0te36srcUiyR5t
+tcaz_O0te36srcUiyR5t maked move from 5 4 to 6 3
+Make move called on socket MoiAiy2bJtpl9rMYyR5u
+Make move valid on socket MoiAiy2bJtpl9rMYyR5u
+MoiAiy2bJtpl9rMYyR5u maked move from 6 0 to 7 2
+Make move called on socket tcaz_O0te36srcUiyR5t
+Make move valid on socket tcaz_O0te36srcUiyR5t
+tcaz_O0te36srcUiyR5t maked move from 6 3 to 6 2
+Make move called on socket MoiAiy2bJtpl9rMYyR5u
+Make move valid on socket MoiAiy2bJtpl9rMYyR5u
+MoiAiy2bJtpl9rMYyR5u maked move from 7 2 to 6 4
+Make move called on socket tcaz_O0te36srcUiyR5t
+Make move valid on socket tcaz_O0te36srcUiyR5t
+tcaz_O0te36srcUiyR5t maked move from 6 2 to 6 1
+Make move called on socket MoiAiy2bJtpl9rMYyR5u
+Make move valid on socket MoiAiy2bJtpl9rMYyR5u
+MoiAiy2bJtpl9rMYyR5u maked move from 6 4 to 5 6
+Make move called on socket tcaz_O0te36srcUiyR5t
+Make move valid on socket tcaz_O0te36srcUiyR5t
+tcaz_O0te36srcUiyR5t maked move from 6 1 to 6 0
+Make move called on socket MoiAiy2bJtpl9rMYyR5u
+Make move valid on socket MoiAiy2bJtpl9rMYyR5u
+MoiAiy2bJtpl9rMYyR5u maked move from 2 1 to 2 2
+Make move called on socket tcaz_O0te36srcUiyR5t
+tcaz_O0te36srcUiyR5t maked move from 6 6 to 6 4
+Make move valid on socket tcaz_O0te36srcUiyR5t
+Make move called on socket MoiAiy2bJtpl9rMYyR5u
+Make move valid on socket MoiAiy2bJtpl9rMYyR5u
+MoiAiy2bJtpl9rMYyR5u maked move from 5 1 to 5 2
+Make move called on socket tcaz_O0te36srcUiyR5t
+Make move valid on socket tcaz_O0te36srcUiyR5t
+tcaz_O0te36srcUiyR5t maked move from 6 0 to 4 2
+tcaz_O0te36srcUiyR5t In handler (call 1) 2
+tcaz_O0te36srcUiyR5t In handler (call 2) 2
+Disconnected finished tcaz_O0te36srcUiyR5t
+fhomVy1_3U1HtlDFyR5v connected.
+
+Room #fhomVy1_3U1HtlDFyR5v has been created.
+iXzCX9nEIn96FljRyR5w connected.
+
+Room #fhomVy1_3U1HtlDFyR5v is full.
+0 game started.
+gameStarted
+gameStarted
+1 game started.
+Make move called on socket fhomVy1_3U1HtlDFyR5v
+fhomVy1_3U1HtlDFyR5v maked move from 5 6 to 5 4
+Make move valid on socket fhomVy1_3U1HtlDFyR5v
+Make move called on socket iXzCX9nEIn96FljRyR5w
+Make move valid on socket iXzCX9nEIn96FljRyR5w
+iXzCX9nEIn96FljRyR5w maked move from 6 1 to 6 3
+Make move called on socket fhomVy1_3U1HtlDFyR5v
+Make move valid on socket fhomVy1_3U1HtlDFyR5v
+fhomVy1_3U1HtlDFyR5v maked move from 5 4 to 6 3
+Make move called on socket iXzCX9nEIn96FljRyR5w
+Make move valid on socket iXzCX9nEIn96FljRyR5w
+iXzCX9nEIn96FljRyR5w maked move from 6 0 to 7 2
+Make move called on socket fhomVy1_3U1HtlDFyR5v
+fhomVy1_3U1HtlDFyR5v maked move from 6 3 to 6 2
+Make move valid on socket fhomVy1_3U1HtlDFyR5v
+Make move called on socket iXzCX9nEIn96FljRyR5w
+Make move valid on socket iXzCX9nEIn96FljRyR5w
+iXzCX9nEIn96FljRyR5w maked move from 7 2 to 6 4
+Make move called on socket fhomVy1_3U1HtlDFyR5v
+fhomVy1_3U1HtlDFyR5v maked move from 6 2 to 6 1
+Make move valid on socket fhomVy1_3U1HtlDFyR5v
+Make move called on socket iXzCX9nEIn96FljRyR5w
+Make move valid on socket iXzCX9nEIn96FljRyR5w
+iXzCX9nEIn96FljRyR5w maked move from 6 4 to 5 6
+Make move called on socket fhomVy1_3U1HtlDFyR5v
+Make move valid on socket fhomVy1_3U1HtlDFyR5v
+fhomVy1_3U1HtlDFyR5v maked move from 6 1 to 6 0
+Make move called on socket iXzCX9nEIn96FljRyR5w
+Make move valid on socket iXzCX9nEIn96FljRyR5w
+iXzCX9nEIn96FljRyR5w maked move from 5 1 to 5 3
+Make move called on socket fhomVy1_3U1HtlDFyR5v
+Make move valid on socket fhomVy1_3U1HtlDFyR5v
+fhomVy1_3U1HtlDFyR5v maked move from 6 0 to 6 3
+k-QegtBP4FOb9Yw5NJ8M connected.
+
+jZuR0pyy34c3K8RsNJ8N connected.
+
+k-QegtBP4FOb9Yw5NJ8M In handler (call 1) 2
+k-QegtBP4FOb9Yw5NJ8M In handler (call 2) 2
+Disconnected finished k-QegtBP4FOb9Yw5NJ8M
+mCEdHP42ri0GmeM4NJ8O connected.
+
+Room #mCEdHP42ri0GmeM4NJ8O has been created.
+sd3S4JiWVcjIl_QnNJ8P connected.
+
+Room #mCEdHP42ri0GmeM4NJ8O is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket mCEdHP42ri0GmeM4NJ8O
+Make move valid on socket mCEdHP42ri0GmeM4NJ8O
+mCEdHP42ri0GmeM4NJ8O maked move from 6 6 to 6 4
+Make move called on socket sd3S4JiWVcjIl_QnNJ8P
+Make move valid on socket sd3S4JiWVcjIl_QnNJ8P
+sd3S4JiWVcjIl_QnNJ8P maked move from 6 1 to 6 3
+Make move called on socket mCEdHP42ri0GmeM4NJ8O
+Make move valid on socket mCEdHP42ri0GmeM4NJ8O
+mCEdHP42ri0GmeM4NJ8O maked move from 6 7 to 5 5
+Make move called on socket sd3S4JiWVcjIl_QnNJ8P
+Make move valid on socket sd3S4JiWVcjIl_QnNJ8P
+sd3S4JiWVcjIl_QnNJ8P maked move from 4 1 to 4 3
+Make move called on socket mCEdHP42ri0GmeM4NJ8O
+Make move valid on socket mCEdHP42ri0GmeM4NJ8O
+mCEdHP42ri0GmeM4NJ8O maked move from 5 5 to 4 3
+Cw0XIAPVOfdIvu5EWwdE connected.
+
+ty_HmgdlqJzA_AiEWwdG connected.
+
+Room #ty_HmgdlqJzA_AiEWwdG has been created.
+Cw0XIAPVOfdIvu5EWwdE In handler (call 1) 2
+Cw0XIAPVOfdIvu5EWwdE In handler (call 2) 2
+ty_HmgdlqJzA_AiEWwdG In handler (call 1) 1
+Disconnected finished Cw0XIAPVOfdIvu5EWwdE
+LvvlBPNumuN3lAi6WwdH connected.
+
+Room #ty_HmgdlqJzA_AiEWwdG is full.
+0 game started.
+gameStarted
+JJrKhxum4N1MO7tlWwdI connected.
+
+Room #JJrKhxum4N1MO7tlWwdI has been created.
+LvvlBPNumuN3lAi6WwdH In handler (call 1) 1
+hU679b0JtilgaherWwdJ connected.
+
+Room #JJrKhxum4N1MO7tlWwdI is full.
+0 game started.
+gameStarted
+gameStarted
+1 game started.
+Make move called on socket JJrKhxum4N1MO7tlWwdI
+Make move valid on socket JJrKhxum4N1MO7tlWwdI
+JJrKhxum4N1MO7tlWwdI maked move from 5 6 to 5 4
+Make move called on socket hU679b0JtilgaherWwdJ
+hU679b0JtilgaherWwdJ maked move from 5 6 to 5 4
+Make move valid on socket hU679b0JtilgaherWwdJ
+Make move called on socket hU679b0JtilgaherWwdJ
+Make move valid on socket hU679b0JtilgaherWwdJ
+hU679b0JtilgaherWwdJ maked move from 6 1 to 6 3
+hU679b0JtilgaherWwdJ In handler (call 1) 2
+hU679b0JtilgaherWwdJ In handler (call 2) 2
+Disconnected finished hU679b0JtilgaherWwdJ
+U786CrSMfixwGIIYWwdK connected.
+
+Room #U786CrSMfixwGIIYWwdK has been created.
+krhALHnaqrARW0f8WwdL connected.
+
+Room #U786CrSMfixwGIIYWwdK is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket U786CrSMfixwGIIYWwdK
+Make move valid on socket U786CrSMfixwGIIYWwdK
+U786CrSMfixwGIIYWwdK maked move from 7 6 to 7 4
+Make move called on socket krhALHnaqrARW0f8WwdL
+krhALHnaqrARW0f8WwdL maked move from 7 6 to 7 4
+Make move valid on socket krhALHnaqrARW0f8WwdL
+Make move called on socket krhALHnaqrARW0f8WwdL
+Make move valid on socket krhALHnaqrARW0f8WwdL
+krhALHnaqrARW0f8WwdL maked move from 7 1 to 7 3
+U786CrSMfixwGIIYWwdK In handler (call 1) 2
+U786CrSMfixwGIIYWwdK In handler (call 2) 2
+Disconnected finished U786CrSMfixwGIIYWwdK
+-ymUjd01MDT1KOLEWwdM connected.
+
+Room #-ymUjd01MDT1KOLEWwdM has been created.
+fh-hEsQS1WZCGprxWwdN connected.
+
+Room #-ymUjd01MDT1KOLEWwdM is full.
+gameStarted
+0 game started.
+1 game started.
+gameStarted
+Make move called on socket -ymUjd01MDT1KOLEWwdM
+Make move valid on socket -ymUjd01MDT1KOLEWwdM
+-ymUjd01MDT1KOLEWwdM maked move from 7 6 to 7 5
+Make move called on socket fh-hEsQS1WZCGprxWwdN
+Make move valid on socket fh-hEsQS1WZCGprxWwdN
+fh-hEsQS1WZCGprxWwdN maked move from 7 6 to 7 5
+Make move called on socket fh-hEsQS1WZCGprxWwdN
+fh-hEsQS1WZCGprxWwdN maked move from 7 1 to 7 3
+Make move valid on socket fh-hEsQS1WZCGprxWwdN
+-ymUjd01MDT1KOLEWwdM In handler (call 1) 2
+-ymUjd01MDT1KOLEWwdM In handler (call 2) 2
+Disconnected finished -ymUjd01MDT1KOLEWwdM
+NGczQ7FPrjgykfdOWwdO connected.
+
+Room #NGczQ7FPrjgykfdOWwdO has been created.
+c_oZZcelPG9KA7wCWwdP connected.
+
+Room #NGczQ7FPrjgykfdOWwdO is full.
+gameStarted
+gameStarted
+1 game started.
+0 game started.
+Make move called on socket NGczQ7FPrjgykfdOWwdO
+Make move valid on socket NGczQ7FPrjgykfdOWwdO
+NGczQ7FPrjgykfdOWwdO maked move from 7 6 to 7 5
+Make move called on socket c_oZZcelPG9KA7wCWwdP
+Make move valid on socket c_oZZcelPG9KA7wCWwdP
+c_oZZcelPG9KA7wCWwdP maked move from 7 6 to 7 5
+Make move called on socket c_oZZcelPG9KA7wCWwdP
+Make move valid on socket c_oZZcelPG9KA7wCWwdP
+c_oZZcelPG9KA7wCWwdP maked move from 7 1 to 7 3
+NGczQ7FPrjgykfdOWwdO In handler (call 1) 2
+NGczQ7FPrjgykfdOWwdO In handler (call 2) 2
+Disconnected finished NGczQ7FPrjgykfdOWwdO
+n1YBZL11CgrSyDauWwdQ connected.
+
+Room #n1YBZL11CgrSyDauWwdQ has been created.
+4-wPGUgMJNnbad7WWwdR connected.
+
+Room #n1YBZL11CgrSyDauWwdQ is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket n1YBZL11CgrSyDauWwdQ
+Make move valid on socket n1YBZL11CgrSyDauWwdQ
+n1YBZL11CgrSyDauWwdQ maked move from 7 6 to 7 4
+Make move called on socket 4-wPGUgMJNnbad7WWwdR
+Make move valid on socket 4-wPGUgMJNnbad7WWwdR
+4-wPGUgMJNnbad7WWwdR maked move from 7 6 to 7 4
+Make move called on socket 4-wPGUgMJNnbad7WWwdR
+Make move valid on socket 4-wPGUgMJNnbad7WWwdR
+4-wPGUgMJNnbad7WWwdR maked move from 7 1 to 7 3
+n1YBZL11CgrSyDauWwdQ In handler (call 1) 2
+n1YBZL11CgrSyDauWwdQ In handler (call 2) 2
+Disconnected finished n1YBZL11CgrSyDauWwdQ
+5uYnEv29Dq2iidOxWwdS connected.
+
+Room #5uYnEv29Dq2iidOxWwdS has been created.
+7kpOfkgERgWrICr3WwdT connected.
+
+Room #5uYnEv29Dq2iidOxWwdS is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket 5uYnEv29Dq2iidOxWwdS
+5uYnEv29Dq2iidOxWwdS maked move from 7 6 to 7 4
+Make move valid on socket 5uYnEv29Dq2iidOxWwdS
+Make move called on socket 7kpOfkgERgWrICr3WwdT
+Make move valid on socket 7kpOfkgERgWrICr3WwdT
+7kpOfkgERgWrICr3WwdT maked move from 7 6 to 7 4
+Make move called on socket 7kpOfkgERgWrICr3WwdT
+Make move valid on socket 7kpOfkgERgWrICr3WwdT
+7kpOfkgERgWrICr3WwdT maked move from 7 1 to 7 3
+5uYnEv29Dq2iidOxWwdS In handler (call 1) 2
+5uYnEv29Dq2iidOxWwdS In handler (call 2) 2
+Disconnected finished 5uYnEv29Dq2iidOxWwdS
+Bs5LwUhWJ7AJNH8RWwdU connected.
+
+Room #Bs5LwUhWJ7AJNH8RWwdU has been created.
+DFc1e-fObfZHnx6tWwdV connected.
+
+Room #Bs5LwUhWJ7AJNH8RWwdU is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket Bs5LwUhWJ7AJNH8RWwdU
+Make move valid on socket Bs5LwUhWJ7AJNH8RWwdU
+Bs5LwUhWJ7AJNH8RWwdU maked move from 7 6 to 7 4
+Make move called on socket DFc1e-fObfZHnx6tWwdV
+Make move valid on socket DFc1e-fObfZHnx6tWwdV
+DFc1e-fObfZHnx6tWwdV maked move from 7 6 to 7 4
+Make move called on socket DFc1e-fObfZHnx6tWwdV
+DFc1e-fObfZHnx6tWwdV maked move from 7 1 to 7 3
+Make move valid on socket DFc1e-fObfZHnx6tWwdV
+Bs5LwUhWJ7AJNH8RWwdU In handler (call 1) 2
+Bs5LwUhWJ7AJNH8RWwdU In handler (call 2) 2
+Disconnected finished Bs5LwUhWJ7AJNH8RWwdU
+BmSQ6KWGZ-QIvVJHWwdW connected.
+
+Room #BmSQ6KWGZ-QIvVJHWwdW has been created.
+5HgE0mtESCfn4syNWwdX connected.
+
+Room #BmSQ6KWGZ-QIvVJHWwdW is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket BmSQ6KWGZ-QIvVJHWwdW
+Make move valid on socket BmSQ6KWGZ-QIvVJHWwdW
+BmSQ6KWGZ-QIvVJHWwdW maked move from 7 6 to 7 4
+Make move called on socket 5HgE0mtESCfn4syNWwdX
+Make move valid on socket 5HgE0mtESCfn4syNWwdX
+5HgE0mtESCfn4syNWwdX maked move from 7 6 to 7 4
+Make move called on socket 5HgE0mtESCfn4syNWwdX
+Make move valid on socket 5HgE0mtESCfn4syNWwdX
+5HgE0mtESCfn4syNWwdX maked move from 7 1 to 7 3
+BmSQ6KWGZ-QIvVJHWwdW In handler (call 1) 2
+BmSQ6KWGZ-QIvVJHWwdW In handler (call 2) 2
+Disconnected finished BmSQ6KWGZ-QIvVJHWwdW
+McbSTE4glPKzcZv2WwdY connected.
+
+Room #McbSTE4glPKzcZv2WwdY has been created.
+SsgyiXe21XgB9i0IWwdZ connected.
+
+Room #McbSTE4glPKzcZv2WwdY is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+SsgyiXe21XgB9i0IWwdZ In handler (call 1) 2
+SsgyiXe21XgB9i0IWwdZ In handler (call 2) 2
+Disconnected finished SsgyiXe21XgB9i0IWwdZ
+onGAbnSYeCaylzd7Wwda connected.
+
+Room #onGAbnSYeCaylzd7Wwda has been created.
+GzYlX13OB2sRwg43Wwdb connected.
+
+Room #onGAbnSYeCaylzd7Wwda is full.
+gameStarted
+0 game started.
+gameStarted
+onGAbnSYeCaylzd7Wwda In handler (call 2) 2
+1 game started.
+onGAbnSYeCaylzd7Wwda In handler (call 1) 2
+Disconnected finished onGAbnSYeCaylzd7Wwda
+90EgQdEGxlCydowtWwdc connected.
+
+Room #90EgQdEGxlCydowtWwdc has been created.
+90EgQdEGxlCydowtWwdc In handler (call 1) 1
+hfb4GbI0yfsU5FM_Wwdd connected.
+
+Room #90EgQdEGxlCydowtWwdc is full.
+gameStarted
+0 game started.
+in4JYTHuJfRWuphJWwde connected.
+
+Room #in4JYTHuJfRWuphJWwde has been created.
+hfb4GbI0yfsU5FM_Wwdd In handler (call 1) 1
+ga9Ho6yHCUsypMMPWwdf connected.
+
+Room #in4JYTHuJfRWuphJWwde is full.
+gameStarted
+gameStarted
+1 game started.
+0 game started.
+in4JYTHuJfRWuphJWwde In handler (call 1) 2
+in4JYTHuJfRWuphJWwde In handler (call 2) 2
+Disconnected finished in4JYTHuJfRWuphJWwde
+xjtCxD8Jy_GcfupCWwdg connected.
+
+Room #xjtCxD8Jy_GcfupCWwdg has been created.
+kQjhL4c3kWK8mRU0Wwdh connected.
+
+Room #xjtCxD8Jy_GcfupCWwdg is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket xjtCxD8Jy_GcfupCWwdg
+Make move valid on socket xjtCxD8Jy_GcfupCWwdg
+xjtCxD8Jy_GcfupCWwdg maked move from 7 6 to 7 4
+Make move called on socket kQjhL4c3kWK8mRU0Wwdh
+Make move valid on socket kQjhL4c3kWK8mRU0Wwdh
+kQjhL4c3kWK8mRU0Wwdh maked move from 7 6 to 7 4
+xjtCxD8Jy_GcfupCWwdg In handler (call 1) 2
+xjtCxD8Jy_GcfupCWwdg In handler (call 2) 2
+Disconnected finished xjtCxD8Jy_GcfupCWwdg
+JGjbTVQObX3LUeBHWwdi connected.
+
+Room #JGjbTVQObX3LUeBHWwdi has been created.
+pO5r-ML_IQzlR0gkWwdj connected.
+
+Room #JGjbTVQObX3LUeBHWwdi is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket JGjbTVQObX3LUeBHWwdi
+Make move valid on socket JGjbTVQObX3LUeBHWwdi
+JGjbTVQObX3LUeBHWwdi maked move from 7 6 to 7 4
+Make move called on socket pO5r-ML_IQzlR0gkWwdj
+Make move valid on socket pO5r-ML_IQzlR0gkWwdj
+pO5r-ML_IQzlR0gkWwdj maked move from 7 6 to 7 4
+JGjbTVQObX3LUeBHWwdi In handler (call 1) 2
+JGjbTVQObX3LUeBHWwdi In handler (call 2) 2
+Disconnected finished JGjbTVQObX3LUeBHWwdi
+4FNV05jl-47-DO7JWwdk connected.
+
+Room #4FNV05jl-47-DO7JWwdk has been created.
+9750z2W8kjzeoRwRWwdl connected.
+
+Room #4FNV05jl-47-DO7JWwdk is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+4FNV05jl-47-DO7JWwdk In handler (call 1) 2
+4FNV05jl-47-DO7JWwdk In handler (call 2) 2
+Disconnected finished 4FNV05jl-47-DO7JWwdk
+9bOZ-tHJN_ASmQOFWwdm connected.
+
+Room #9bOZ-tHJN_ASmQOFWwdm has been created.
+9zHt5lB_foVDv6XNWwdn connected.
+
+Room #9bOZ-tHJN_ASmQOFWwdm is full.
+0 game started.
+gameStarted
+gameStarted
+1 game started.
+9bOZ-tHJN_ASmQOFWwdm In handler (call 1) 2
+9bOZ-tHJN_ASmQOFWwdm In handler (call 2) 2
+Disconnected finished 9bOZ-tHJN_ASmQOFWwdm
+ERPihdCSAS9tMYkgWwdo connected.
+
+Room #ERPihdCSAS9tMYkgWwdo has been created.
+uqarWXb-8C4btvSoWwdp connected.
+
+Room #ERPihdCSAS9tMYkgWwdo is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket ERPihdCSAS9tMYkgWwdo
+Make move valid on socket ERPihdCSAS9tMYkgWwdo
+ERPihdCSAS9tMYkgWwdo maked move from 6 6 to 6 4
+Make move called on socket uqarWXb-8C4btvSoWwdp
+Make move valid on socket uqarWXb-8C4btvSoWwdp
+uqarWXb-8C4btvSoWwdp maked move from 5 1 to 5 3
+Make move called on socket ERPihdCSAS9tMYkgWwdo
+Make move valid on socket ERPihdCSAS9tMYkgWwdo
+ERPihdCSAS9tMYkgWwdo maked move from 5 3 to 6 4
+Make move called on socket uqarWXb-8C4btvSoWwdp
+uqarWXb-8C4btvSoWwdp maked move from 5 3 to 6 4
+Make move valid on socket uqarWXb-8C4btvSoWwdp
+uqarWXb-8C4btvSoWwdp In handler (call 1) 2
+uqarWXb-8C4btvSoWwdp In handler (call 2) 2
+Disconnected finished uqarWXb-8C4btvSoWwdp
+-6Z9PKvJOvFET8P2Wwdq connected.
+
+Room #-6Z9PKvJOvFET8P2Wwdq has been created.
+i3SsdmH7cFrOy8TFWwdr connected.
+
+Room #-6Z9PKvJOvFET8P2Wwdq is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket -6Z9PKvJOvFET8P2Wwdq
+Make move valid on socket -6Z9PKvJOvFET8P2Wwdq
+-6Z9PKvJOvFET8P2Wwdq maked move from 7 6 to 7 4
+i3SsdmH7cFrOy8TFWwdr In handler (call 1) 2
+i3SsdmH7cFrOy8TFWwdr In handler (call 2) 2
+Disconnected finished i3SsdmH7cFrOy8TFWwdr
+1TTiBzZ5G-RSbepNWwds connected.
+
+1TTiBzZ5G-RSbepNWwds In handler (call 1) 1
+nKdH3gqz__sMRBuwWwdt connected.
+
+Room #nKdH3gqz__sMRBuwWwdt has been created.
+Nqu-6YYFXqsdy41nWwdu connected.
+
+Room #nKdH3gqz__sMRBuwWwdt is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket nKdH3gqz__sMRBuwWwdt
+Make move valid on socket nKdH3gqz__sMRBuwWwdt
+nKdH3gqz__sMRBuwWwdt maked move from 6 6 to 6 4
+Nqu-6YYFXqsdy41nWwdu In handler (call 1) 2
+Nqu-6YYFXqsdy41nWwdu In handler (call 2) 2
+Disconnected finished Nqu-6YYFXqsdy41nWwdu
+Ub6gUJ-3ob5Qf7BcWwdv connected.
+
+Room #Ub6gUJ-3ob5Qf7BcWwdv has been created.
+gFcvNt97SaxFnDFWWwdw connected.
+
+Room #Ub6gUJ-3ob5Qf7BcWwdv is full.
+0 game started.
+gameStarted
+gameStarted
+1 game started.
+Make move called on socket Ub6gUJ-3ob5Qf7BcWwdv
+Make move valid on socket Ub6gUJ-3ob5Qf7BcWwdv
+Ub6gUJ-3ob5Qf7BcWwdv maked move from 6 6 to 6 4
+Make move called on socket gFcvNt97SaxFnDFWWwdw
+Make move valid on socket gFcvNt97SaxFnDFWWwdw
+gFcvNt97SaxFnDFWWwdw maked move from 5 1 to 5 3
+Make move called on socket Ub6gUJ-3ob5Qf7BcWwdv
+Make move valid on socket Ub6gUJ-3ob5Qf7BcWwdv
+Ub6gUJ-3ob5Qf7BcWwdv maked move from 6 4 to 5 3
+Make move called on socket gFcvNt97SaxFnDFWWwdw
+Make move valid on socket gFcvNt97SaxFnDFWWwdw
+gFcvNt97SaxFnDFWWwdw maked move from 6 1 to 6 2
+Make move called on socket Ub6gUJ-3ob5Qf7BcWwdv
+Make move valid on socket Ub6gUJ-3ob5Qf7BcWwdv
+Ub6gUJ-3ob5Qf7BcWwdv maked move from 5 3 to 6 2
+Make move called on socket gFcvNt97SaxFnDFWWwdw
+Make move valid on socket gFcvNt97SaxFnDFWWwdw
+gFcvNt97SaxFnDFWWwdw maked move from 6 0 to 5 2
+Make move called on socket Ub6gUJ-3ob5Qf7BcWwdv
+Make move valid on socket Ub6gUJ-3ob5Qf7BcWwdv
+Ub6gUJ-3ob5Qf7BcWwdv maked move from 7 6 to 7 5
+Make move called on socket gFcvNt97SaxFnDFWWwdw
+gFcvNt97SaxFnDFWWwdw maked move from 5 0 to 7 2
+Make move valid on socket gFcvNt97SaxFnDFWWwdw
+Make move called on socket Ub6gUJ-3ob5Qf7BcWwdv
+Make move valid on socket Ub6gUJ-3ob5Qf7BcWwdv
+Ub6gUJ-3ob5Qf7BcWwdv maked move from 7 5 to 7 4
+Make move called on socket gFcvNt97SaxFnDFWWwdw
+gFcvNt97SaxFnDFWWwdw maked move from 4 0 to 6 0
+Make move valid on socket gFcvNt97SaxFnDFWWwdw
+Make move called on socket Ub6gUJ-3ob5Qf7BcWwdv
+Ub6gUJ-3ob5Qf7BcWwdv maked move from 7 4 to 7 3
+Make move valid on socket Ub6gUJ-3ob5Qf7BcWwdv
+Make move called on socket gFcvNt97SaxFnDFWWwdw
+Make move valid on socket gFcvNt97SaxFnDFWWwdw
+gFcvNt97SaxFnDFWWwdw maked move from 6 0 to 7 0
+Make move called on socket Ub6gUJ-3ob5Qf7BcWwdv
+Ub6gUJ-3ob5Qf7BcWwdv maked move from 6 7 to 7 5
+Make move valid on socket Ub6gUJ-3ob5Qf7BcWwdv
+Make move called on socket gFcvNt97SaxFnDFWWwdw
+Make move valid on socket gFcvNt97SaxFnDFWWwdw
+gFcvNt97SaxFnDFWWwdw maked move from 5 0 to 5 1
+Make move called on socket Ub6gUJ-3ob5Qf7BcWwdv
+Make move valid on socket Ub6gUJ-3ob5Qf7BcWwdv
+Ub6gUJ-3ob5Qf7BcWwdv maked move from 6 2 to 5 1
+Make move called on socket gFcvNt97SaxFnDFWWwdw
+Make move valid on socket gFcvNt97SaxFnDFWWwdw
+gFcvNt97SaxFnDFWWwdw maked move from 5 2 to 6 4
+Ub6gUJ-3ob5Qf7BcWwdv In handler (call 1) 2
+Ub6gUJ-3ob5Qf7BcWwdv In handler (call 2) 2
+Disconnected finished Ub6gUJ-3ob5Qf7BcWwdv
+pj_7YtqULg4uZanYWwdx connected.
+
+Room #pj_7YtqULg4uZanYWwdx has been created.
+IS2odg6mZ5AtrfCaWwdy connected.
+
+Room #pj_7YtqULg4uZanYWwdx is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket pj_7YtqULg4uZanYWwdx
+pj_7YtqULg4uZanYWwdx maked move from 6 6 to 6 4
+Make move valid on socket pj_7YtqULg4uZanYWwdx
+Make move called on socket IS2odg6mZ5AtrfCaWwdy
+Make move valid on socket IS2odg6mZ5AtrfCaWwdy
+IS2odg6mZ5AtrfCaWwdy maked move from 5 1 to 5 3
+Make move called on socket pj_7YtqULg4uZanYWwdx
+Make move valid on socket pj_7YtqULg4uZanYWwdx
+pj_7YtqULg4uZanYWwdx maked move from 6 4 to 5 3
+Make move called on socket IS2odg6mZ5AtrfCaWwdy
+Make move valid on socket IS2odg6mZ5AtrfCaWwdy
+IS2odg6mZ5AtrfCaWwdy maked move from 6 1 to 6 3
+Make move called on socket pj_7YtqULg4uZanYWwdx
+Make move valid on socket pj_7YtqULg4uZanYWwdx
+pj_7YtqULg4uZanYWwdx maked move from 5 3 to 6 2
+Make move called on socket IS2odg6mZ5AtrfCaWwdy
+Make move valid on socket IS2odg6mZ5AtrfCaWwdy
+IS2odg6mZ5AtrfCaWwdy maked move from 0 1 to 0 2
+Make move called on socket pj_7YtqULg4uZanYWwdx
+Make move valid on socket pj_7YtqULg4uZanYWwdx
+pj_7YtqULg4uZanYWwdx maked move from 6 2 to 7 1
+Make move called on socket IS2odg6mZ5AtrfCaWwdy
+Make move valid on socket IS2odg6mZ5AtrfCaWwdy
+IS2odg6mZ5AtrfCaWwdy maked move from 0 2 to 0 3
+Make move called on socket pj_7YtqULg4uZanYWwdx
+Make move valid on socket pj_7YtqULg4uZanYWwdx
+pj_7YtqULg4uZanYWwdx maked move from 7 1 to 6 0
+Make move called on socket IS2odg6mZ5AtrfCaWwdy
+Make move valid on socket IS2odg6mZ5AtrfCaWwdy
+IS2odg6mZ5AtrfCaWwdy maked move from 0 2 to 0 3
+Make move called on socket IS2odg6mZ5AtrfCaWwdy
+Make move valid on socket IS2odg6mZ5AtrfCaWwdy
+IS2odg6mZ5AtrfCaWwdy maked move from 3 1 to 3 3
+Make move called on socket pj_7YtqULg4uZanYWwdx
+pj_7YtqULg4uZanYWwdx maked move from 6 0 to 5 2
+Make move valid on socket pj_7YtqULg4uZanYWwdx
+IS2odg6mZ5AtrfCaWwdy In handler (call 1) 2
+IS2odg6mZ5AtrfCaWwdy In handler (call 2) 2
+Disconnected finished IS2odg6mZ5AtrfCaWwdy
+zEf4dHbknbyVHt2FWwdz connected.
+
+Room #zEf4dHbknbyVHt2FWwdz has been created.
+qwCVMwsLCdZI7ImjWwd0 connected.
+
+Room #zEf4dHbknbyVHt2FWwdz is full.
+gameStarted
+0 game started.
+gameStarted
+1 game started.
+Make move called on socket zEf4dHbknbyVHt2FWwdz
+Make move valid on socket zEf4dHbknbyVHt2FWwdz
+zEf4dHbknbyVHt2FWwdz maked move from 5 6 to 5 4
+Make move called on socket qwCVMwsLCdZI7ImjWwd0
+Make move valid on socket qwCVMwsLCdZI7ImjWwd0
+qwCVMwsLCdZI7ImjWwd0 maked move from 6 1 to 6 3
+Make move called on socket zEf4dHbknbyVHt2FWwdz
+Make move valid on socket zEf4dHbknbyVHt2FWwdz
+zEf4dHbknbyVHt2FWwdz maked move from 5 4 to 6 3
+Make move called on socket qwCVMwsLCdZI7ImjWwd0
+Make move valid on socket qwCVMwsLCdZI7ImjWwd0
+qwCVMwsLCdZI7ImjWwd0 maked move from 5 1 to 5 2
+Make move called on socket zEf4dHbknbyVHt2FWwdz
+zEf4dHbknbyVHt2FWwdz maked move from 6 3 to 5 2
+Make move valid on socket zEf4dHbknbyVHt2FWwdz
+Make move called on socket qwCVMwsLCdZI7ImjWwd0
+qwCVMwsLCdZI7ImjWwd0 maked move from 6 0 to 7 2
+Make move valid on socket qwCVMwsLCdZI7ImjWwd0
+Make move called on socket zEf4dHbknbyVHt2FWwdz
+Make move valid on socket zEf4dHbknbyVHt2FWwdz
+zEf4dHbknbyVHt2FWwdz maked move from 2 6 to 2 5
+Make move called on socket qwCVMwsLCdZI7ImjWwd0
+Make move valid on socket qwCVMwsLCdZI7ImjWwd0
+qwCVMwsLCdZI7ImjWwd0 maked move from 5 0 to 6 1
+Make move called on socket zEf4dHbknbyVHt2FWwdz
+Make move valid on socket zEf4dHbknbyVHt2FWwdz
+zEf4dHbknbyVHt2FWwdz maked move from 5 2 to 6 1
+Make move called on socket qwCVMwsLCdZI7ImjWwd0
+Make move valid on socket qwCVMwsLCdZI7ImjWwd0
+qwCVMwsLCdZI7ImjWwd0 maked move from 2 1 to 2 2
+Make move called on socket zEf4dHbknbyVHt2FWwdz
+Make move valid on socket zEf4dHbknbyVHt2FWwdz
+zEf4dHbknbyVHt2FWwdz maked move from 6 1 to 7 0
+Make move called on socket qwCVMwsLCdZI7ImjWwd0
+Make move valid on socket qwCVMwsLCdZI7ImjWwd0
+qwCVMwsLCdZI7ImjWwd0 maked move from 7 2 to 5 3
+zEf4dHbknbyVHt2FWwdz In handler (call 1) 2
+zEf4dHbknbyVHt2FWwdz In handler (call 2) 2
+Disconnected finished zEf4dHbknbyVHt2FWwdz
+1x-F26_YDeeYo6-BWwd1 connected.
+
+Room #1x-F26_YDeeYo6-BWwd1 has been created.
+lcNmcVkfu3yRdHxRWwd2 connected.
+
+Room #1x-F26_YDeeYo6-BWwd1 is full.
+gameStarted
+0 game started.
+1 game started.
+gameStarted
+Make move called on socket 1x-F26_YDeeYo6-BWwd1
+Make move valid on socket 1x-F26_YDeeYo6-BWwd1
+1x-F26_YDeeYo6-BWwd1 maked move from 5 6 to 5 4
+Make move called on socket lcNmcVkfu3yRdHxRWwd2
+Make move valid on socket lcNmcVkfu3yRdHxRWwd2
+lcNmcVkfu3yRdHxRWwd2 maked move from 6 1 to 6 3
+Make move called on socket 1x-F26_YDeeYo6-BWwd1
+Make move valid on socket 1x-F26_YDeeYo6-BWwd1
+1x-F26_YDeeYo6-BWwd1 maked move from 5 4 to 6 3
+Make move called on socket lcNmcVkfu3yRdHxRWwd2
+lcNmcVkfu3yRdHxRWwd2 maked move from 6 0 to 5 2
+Make move valid on socket lcNmcVkfu3yRdHxRWwd2
+Make move called on socket 1x-F26_YDeeYo6-BWwd1
+1x-F26_YDeeYo6-BWwd1 maked move from 6 3 to 6 2
+Make move valid on socket 1x-F26_YDeeYo6-BWwd1
+Make move called on socket lcNmcVkfu3yRdHxRWwd2
+lcNmcVkfu3yRdHxRWwd2 maked move from 5 2 to 7 3
+Make move valid on socket lcNmcVkfu3yRdHxRWwd2
+Make move called on socket 1x-F26_YDeeYo6-BWwd1
+Make move valid on socket 1x-F26_YDeeYo6-BWwd1
+1x-F26_YDeeYo6-BWwd1 maked move from 6 2 to 6 1
+Make move called on socket lcNmcVkfu3yRdHxRWwd2
+Make move valid on socket lcNmcVkfu3yRdHxRWwd2
+lcNmcVkfu3yRdHxRWwd2 maked move from 7 3 to 6 5
+Make move called on socket 1x-F26_YDeeYo6-BWwd1
+Make move valid on socket 1x-F26_YDeeYo6-BWwd1
+1x-F26_YDeeYo6-BWwd1 maked move from 6 1 to 6 0
+Make move called on socket lcNmcVkfu3yRdHxRWwd2
+Make move valid on socket lcNmcVkfu3yRdHxRWwd2
+lcNmcVkfu3yRdHxRWwd2 maked move from 5 1 to 5 2
+Make move called on socket 1x-F26_YDeeYo6-BWwd1
+Make move valid on socket 1x-F26_YDeeYo6-BWwd1
+1x-F26_YDeeYo6-BWwd1 maked move from 6 0 to 5 2
