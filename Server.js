@@ -8,7 +8,11 @@ function Log(data)
 {
     console.log(data);
 	fs.appendFile('message.txt', data + "\r\n", function (err) {
-	  if (err) throw err;
+		if (err) 
+		{
+			//console.log(err);
+			throw err;
+		}
 	});
 }
 
@@ -60,7 +64,7 @@ io.sockets.on('connection', function (socket) {
 		}
 
 		socket.broadcast.to(inroom).emit("makeMove", data);
-		Log(socket.id + " maked move from " + data.xfrom + " " + data.yfrom + " to " + data.xto + " " + data.yto);
+		Log(socket.id + " made move from " + data.xfrom + " " + data.yfrom + " to " + data.xto + " " + data.yto);
 	    
 	});
 	socket.on("gameOver", function (data) {
